@@ -4,7 +4,7 @@ This project analyzes survey responses from 500+ data professionals using Power 
 The goal is to explore demographics, salaries, skills, and job satisfaction.
 
 ## Dataset
-- Source: Data Professional Survey (2022)
+- Source: Data Professional Survey (2022) from Alex The Analyst
 - Respondents: 504
 - Columns: Job title, salary, country, favorite programming language, difficulty to enter data, satisfaction, etc.
 
